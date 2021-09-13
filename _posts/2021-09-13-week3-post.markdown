@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Meeting Time"
+date:   2021-09-13 3:30:00 -0500
+categories: jekyll update
+---
+The meetings went good this week. Everyone had plenty to say about the games.
+Now we have a good idea about what needs to be done, what should have priority, and what would be nice to have in each game.
+Some of the clients were much happier with the games than the others, but that was expected.
+
+Below is the General order that we wish to work on these different games.
+1. Astronomical Bodies with Dr. Wright
+1. Chemistry Simulation with Dr. Scott
+1. @itsmaya with Dr. Veselka-Bush
+1. Climate Goes Political with Dr. Chomphosy
+1. Artastrophe with Sarah Donaghy
+1. Cultivating Compitencies with Tricia Burris and Leigh Lassiter-Counts
+
+# Astronomical Bodies #
+This game doesn't need too much work, it just needs to be optimized, have more clarity, have updated visuals, show more data, and have a lot of tiny things tweaked to improve the overall experience.
+# ChemSim #
+Chemistry Simulation was overall very good, but it is lacking. There needs to be more reactions for those playing the game so that people can play around.
+The system in which people currently pick elements isn't the best, perhaps we should use table that is a popup. There should be a volume mixer in the game, and there are visual aspects that should be changed make the molecules easier to see and the text easier to read.
+# @itsmaya #
+A lot needs to happen here. First, add a volume mixer! The current system with money should be replaced with relationships between you and the parents, teachers, faculty, and the community.
+The story should be tweaked to where the player feels more connected to Maya, but still not playing her.
+Everything in @itsmaya needs to become more adhesive, but at least we have most of the framework here.
+# Climate Goes Political #
+Dr. Chomphosy was pleased with what was created last semester, but he does want some things to be altered that are, to him, of low importance.
+The text in some places is passive voice, when it should be active voice.
+Find a way to implement the WebDice Model instead of the current number system.
+Make the equation be a ratio insted.
+implement playing online if possible.
+Add a volume mixer!
+# Artastrophe #
+I did not attend this meeting, but I know that a lot needs to be done visually to create a less confusing experience.
+It is very easy to get lost right now, and it is not that clear what you should do right away.
+# Cultivating Compitencies #
+This game needs to be completely reworked, but it is also of the least importance.
+The big idea was how to set students up for a better career through career services.
+They should know, after playing this, that it is encouraged to go to career services as early as possible.
+This can be done by having choices immediately make better outcomes.
+There should be less dialogue and more that the player can do.
+More was discussed, but that is a good amount of it.
+
+# **What now?** #
+Now we start to work at all of the different games.
+I've already started to look at the code of them all to find how the different games are working and to see if there were **any** comments in the code.
+There was not much, so some parts may take a lot longer than others to figure out.
