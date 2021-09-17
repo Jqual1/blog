@@ -4,7 +4,7 @@ title:  "Introduction Post"
 date:   2021-09-13 2:40:00 -0500
 categories: jekyll update
 ---
-#### Setting up a Jekyll Blog Before the Rest of the Class Wasn't Easy
+#### Setting up a Jekyll Blog Before the Rest of the Class Wasn't Easy ####
 When making this blog it was *extremely* confusing. I've worked in the [Command Prompt](https://www.lifewire.com/command-prompt-2625840) before, but nevertheless, my errors confused me.
 Here are some of the things that confused me.
 
