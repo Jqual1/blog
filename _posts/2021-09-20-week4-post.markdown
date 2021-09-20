@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Astronomical Bodies Gave me a Headache"
+date:   2021-09-20 6:30:00 -0500
+categories: jekyll update
+---
+This was a tough week. I overcommitted. Let me explain.
+So, this past week I started back at work at Walmart Neighborhood Market and took on three days of work (~21 hrs before breaks are taken out) as well as trying to do everything in Disco Tray Studios.
+I was a little overwhelmed and had to take time for myself.
+However, I told them to lower me down to just 2 days max to avoid this in the future.
+Things should be much better this week.
+
+# What I worked on this week #
+Now onto business, the week before last we had our meetings about the games, so last week we were able to start on them.
+The focus that I appointed to myself was Astronomical Bodies, and I'll be honest, it is hard to understand.
+I don't think it is that fault of the programmers for the most part, I just don't fully know how it all works.
+I put many hours into trying to understand it and messing with the code to see if I could create the changes I wanted.
+My goals this week were to:
+* Understand the code
+* Insert comments in the Code to demonstrate understanding & help others understand
+* Tweak the Camera Centering Algorithm
+* Adjust the planet's size to mass correlation
+* Add a counter to count the bodies in the system
+* Attempt to Optimize the games
+
+I tried my best to understand the code and add comments to it. I thought all was going well.
+Looking at it, I saw numbers that could be changed to affect the time jumps, the planet size to mass correlation, a lot of the things I thought I needed.
+After a while of messing around with the numbers it became apparent that I didn't understand the code well enough, so I went back to it for a while.
+I got the Camera Centering Algorithm in a pretty good place and made a more obvious planet size to mass correlation. I also added a counter of bodies to the code.
+It only said the amount in the console, but that's all we need for now. However, I couldn't figure out how to mess with the time or optimize it at all.
+On top of that, I was trying to figure out how to remove the black color option for planets; it was annoying to have the planets keep blending in with the background.
+I tried 3 different ways to resolve this issue and nothing worked. Eventually I just gave up on this game. I needed someone else to take a look at this.
+
+After I decided to stop working on Astronomical Bodies for bit I decided to look at @itsmaya. I combed through some of the GameManager code and then got straight to work.
+I began making comments and even wrote some of the new logic that we will be implementing.
+I commented ideas we could do in the near future of this game and found out how to write 2D arrays in C#.
+I felt like I was much more where I belonged when writing comments and code for this game.
+
+This week I plan to talk with Ian about Astronomical Bodies, maybe scheduling time to work on it together, and making furthur progress on both games.
+Also, if Ian needs help in ChemSim then I will do what I can to help.
