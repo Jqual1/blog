@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Astronomical Bodies Gave me a Headache"
+title:  "Astronomical Bodies Gave Me a Headache"
 date:   2021-09-20 6:30:00 -0500
 categories: jekyll update
 ---
