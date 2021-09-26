@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "AstroBodies & @itsmaya Progress"
+date:   2021-09-26 5:50:00 -0500
+categories: jekyll update
+---
+This week was a very productive one!
+# Astronomical Bodies #
+This week I continued to make comments in the code as I worked, and figured out ways to make it run a little better! To start, there were a lot of times when a new variable was created to only be used once and then thrown away. This only takes up RAM, so I simplified the process everywhere I could by replacing these two lines of code with one in all the places I could.
+After this was done I focused on how often methods were being called. At first I tried to make everything just one call and then store that, but for some things that just made the game slower. I commented out my code and moved on to something else. Then I realized that everything is called every frame.
+This led me to look for how to cap the framerate and make methods only get called every certain amount of frames. I capped the framerate to 30 fps and called some methods once every 30 frames and some once every 15; This did make an improvement. The solar system model still only gets ~3 fps at the starting speed, but it goes up to 30 with a slight decrease in speed. I would spend more time attempting to optimize this further, but Ian has had a meeting with one of the people who worked on this game last semester to understand the gravity better. Now he understands it, and has a prototype script which uses the real equations. We hope to implement this, but it may be difficult because it will require a lot of reworking the code.
+
+We will attempt to do this week as we try to close up the month.
+
+# @itsmaya #
+Last week I was very confused by the duplication of the code in @itsmaya. The code was copied and pasted in 3 Manager: GameManager, GameController, and PolicyManager. After a lot of testing with the code, I determined that the game mainly uses PolicyManager, so I went to work untangling the code. I was able to completely delete all policy stuff from GameManager and then changed some GameController methods to references to PolicyManager methods. Some still need to be changed, but a lot of them have been successfully changed. Now if any changes need to happen to the policies, it only has to be edited in one place. There are also now plenty of comments to make everything in the new code clear. It should be easier to read and edit.
+
+This week I may spend some more time untangling the code.
+
+# This Week #
+Now that we have so much new information, I will put most of my focus on Astronomical Bodies in order to make it a much more realistic simulation. The goal is to get that all implemented and working at the end of the week. Hopefully this will not slow down the game.
+If, at any time, I need a mental break from this game I will spend a little bit of time untangling @itsmaya's code. Honestly it is really calming to do this.
