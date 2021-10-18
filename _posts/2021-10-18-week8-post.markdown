@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Astronomical Bodies is UP!"
+date:   2021-10-18 6:10:00 -0500
+categories: jekyll update
+---
+
+This week we finished up Astronomical Bodies. It is now up on [itch.io](https://discotraystudios.itch.io/).
+I worked on fixing bugs, and then worked on putting th egame up on itch.io.
+I spent a lot of time formatting the page to make sure it all looked good.
+I kept the Disco Tray Studios colors on the page. After all was done, I got started on ChemSim a little bit.
+In ChemSim, I focused on testing new ways to reformat the text, and putting in the Disco Tray Studios splash logo on it.
+Afterwards, I enjoyed my fall break.
