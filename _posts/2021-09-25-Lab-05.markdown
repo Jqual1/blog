@@ -19,10 +19,10 @@ When thinking about this framework, I first went through and tried to separate a
 Making the diagram was difficult, because there were a lot of different pieces, I knew how it should be in my head, but it's hard to put that down into this form. However the first thing to do was to just put in all of the different entities. In the diagram I assumed everything was needed to go through every step by step process.
 
 #### Lucid Chart ####
-![Lucid Chart Diagram](/blog/assets/OGS_Lucidchart.png)
+![Lucid Chart Diagram](/blog/assets/images/OGS_Lucidchart.png)
 Here we see the chart. I wasn't sure how everything should connect, but I did my best. I think talking through this with someone would create a better outcome, so it should be easier on the team project. It seems easy to read to me.
 #### Vertabelo Schema ####
-![Vertabelo Diagram](/blog/assets/OGS_Vertabelo.png)
+![Vertabelo Diagram](/blog/assets/images/OGS_Vertabelo.png)
 In the Vertabelo Schema, I ended up simplifying things a lot. I wasn't sure if owner would be a separate entity or if they could be an account with admin privileges, and I didn't know how I would put either in this schema. Overall, it looks clean, but I am unsure if it is right. I am happy with how it looks, but not so happy with the overall representation because I am unsure if parts that I left out are needed in the database or not. I don't know how implementing this model would even turn out. Most of it should be okay, but I am unsure.
 
-Lab 5 wasn't hard to do, but it was difficult to think about, and I didn't realize that the Dean's Poker tournament would go on for so long. I was expecting to be able to check over this and write the blog post before the day was over. I made it to 6th place though! However, I will be sure to use my time better in the future labs. 
+Lab 5 wasn't hard to do, but it was difficult to think about, and I didn't realize that the Dean's Poker tournament would go on for so long. I was expecting to be able to check over this and write the blog post before the day was over. I made it to 6th place though! However, I will be sure to use my time better in the future labs.
