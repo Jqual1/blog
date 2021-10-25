@@ -4,10 +4,6 @@ title:  "Lab 8: Entity Framework"
 date:   2021-10-25 14:30:00 -0500
 categories: jekyll update
 ---
-What were the easiest parts of the tutorial? What were confusing parts of the tutorial?
-What was difficult about working with multiple tables as opposed to the single table in the previous lab?
-How prepared do you feel to create your team project now for your client, and what will be different for your situation?
-
 When I was working with the Razor Pages I thought that it all seemed pretty simple and straight forward, just like last time. The tutorial was easy, explained everything well, and put everything in manageable chunks. I don't think anything about it was confusing and I incorporated step 2 into it easily. Here is my GitHub repository, [HinderixCollege](https://github.com/Jqual1/csci340lab8). I forgot that I had to make a repository for this, and I did this lab on Saturday. The only difficulty was remembering that each table had to talk to each other and the amount of files that was required to make everything work right. It was weird to just keep creating files, however, I did mostly understand what was happening.
 
-I feel very prepared to make this project for our client now. I think the main difficulty will be adding in pictures, and making it to where the client can customize them, but besides that, a lot of this should be straight forward. 
+I feel very prepared to make this project for our client now. I think the main difficulty will be adding in pictures, and making it to where the client can customize them, but besides that, a lot of this should be straight forward.
