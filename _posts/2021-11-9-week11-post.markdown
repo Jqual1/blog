@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Two More Games Published!"
+date:   2021-11-9 23:00:00 -0500
+categories: jekyll update
+---
+This past week we finished up Astronomical Bodies and Climate Goes Political and I put them up on the Disco Tray Studios [itch.io](https://discotraystudios.itch.io/) page.
+
+## ChemSim ##
+In order to get ChemSim ready for publishing, we had to reorganize the UI to make it look better and more uniform with the style of this game.
+This included changing the style of the buttons, changing the positioning of the buttons, and removing buttons that were no longer needed.
+Ian and I worked hard to make this UI intuitive to the user, and tried to leave no room for confusion.
+A thing to note is that this game is still in need of development.
+We had hoped that we would have had more reactions to put into this game, but we sadly never heard back with a list of reactions, so until then, we must move on to other games.
+
+![ChemSim itch.io Page](/blog/assets/images/itch_chemsim.png)
+
+## Climate Goes Political ##
+This week I had my meeting with Dr. Chomphosy to show him Climate Goes Political and get his thoughts on it, as well as see if we could feasibly implement the WebDICE model.
+After some discussion, he decided that a task as big as implementing the WebDICE model would require much more compensation than is currently being provided.
+With that out of the way, I let him play through the game with the updated equation and even showed him the equations used, and he loved them.
+This game is exactly what he wants to use in his class, and he plans to use it on Monday, November 15.
+The only things that he wanted was some clarification on when things changed and some of the text fixed that I just hadn't gotten around to fixing yet at the time of the meeting.
+I fulfilled his requests the day after the meeting and went on to work on publishing both of the games.
+I emailed him that his game was up and asked if Ian and I could sit in the class when they test the game, and he said we are absolutely invited.
+
+![Climate Goes Political itch.io Page](/blog/assets/images/itch_cgp.png)
+
+## Struggles Publishing the Games ##
+As you can see from the images, the games turned out well, but I did have problems trying to get them up.
+For ChemSim I had issues with getting some of the reactants to show up, but Ian didn't have that problem,
+so I made the page and uploaded an initial version of the game that Ian later replaced with a working one.
+For Climate Goes political, I had a different issue. I could not get the game to work on itch for some reason.
+I kept trying and then decided to just focus on making the page look the best I could.
+After a while I ended up looking through the settings to see that there was a compression method enabled in unity for it.
+This was something that we always disable in our Unity games that we publish as HTML5 embedded games on itch.io.
+After disabling this I finally got the game uploaded and published the page.
+
+## What's next? ##
+For this last month of work, we will be putting all of our focus on @itsmaya.
+This will be a definite challenge seeing that it has a lot of systems that need to be thought out again and reworked,
+but I have already put in a lot of time thinking of new ways to do things and making new systems in the code.
+Hopefully we will be able to make quick progress on this game now that we have a good system on making these games,
+but only time will tell.
