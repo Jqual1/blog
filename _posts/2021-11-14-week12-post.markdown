@@ -12,8 +12,14 @@ Overall, the looks of this may be changed, but this is a working prototype that 
 
 ![@itsmaya Capital Screen](/blog/assets/images/itsmaya_capitalscreen.png)
 
+## Climate Goes Political ##
+On Monday, Climate Goes political is going to play-tested in a classroom setting in Dr. Chomphosy's Environmental Economics class.
+This is the setting that this game was made for, so I am excited to see how it turns out.
+Ian and I will be sitting in on the class to observe how they play and to receive feedback on the game.
+Hopefully all works as intended, and we get valuable feedback to improve the game in the future.
+
 ## What's next? ##
-Next I will start to assign values to each of the politices and change how everything is displayed to reflect the new changes.
+Next I will start to assign values to each of the polices and change how everything is displayed to reflect the new changes.
 Hopefully that will be done by the end of this week.
 After that, focus will turn to the policies themselves.
 This involves removing the policies that don't align with the game and policies that don't make sense.
