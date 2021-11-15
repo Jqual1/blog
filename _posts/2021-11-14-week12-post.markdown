@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "New @itsmaya Capital System"
+date:   2021-11-14 23:30:00 -0500
+categories: jekyll update
+---
+
+This week I focused on @itsmaya, and took a bit of a mental break after i achieved what I wanted.
+I made new assets for the game. These include: 5 emotion icons, 5 emotion change icons, and 5 capital icons.
+After this I made a new panel to display all but the emotion change icons on the policy page along with a button to show and hide it.
+Overall, the looks of this may be changed, but this is a working prototype that changes depending on the values of each capital.
+
+![@itsmaya Capital Screen](/blog/assets/images/itsmaya_capitalscreen.png)
+
+## What's next? ##
+Next I will start to assign values to each of the politices and change how everything is displayed to reflect the new changes.
+Hopefully that will be done by the end of this week.
+After that, focus will turn to the policies themselves.
+This involves removing the policies that don't align with the game and policies that don't make sense.
