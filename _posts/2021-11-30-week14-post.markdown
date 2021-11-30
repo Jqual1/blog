@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Thanksgiving Break! Test Values for @itsmaya"
+date:   2021-11-30 10:30:00 -0500
+categories: jekyll update
+---
+
+Over the past two weeks I have been working on @itmaya more casually as my attention moves to the end of my classes.
+However, I have still done a lot of work on it.
+First, there were two bugs that were not allowing me to continue the game.
+Both were caused IndexOutOfBounds Errors in the same place, so it was difficult to figure out how to fix them.
+After I while of combing through the code I figured our the two places where we were going out of bounds.
+Afterwards, I worked on our new capital system.
+I rearranged the capital screen and made it to where it shows an estimate of how much each policy will affect each relationship using arrow.
+
+![@itsmaya Capital Screen](/blog/assets/images/itsmaya_capitalscreen2.png)
+
+As you can see, everything is now in position so that the capital screen is always visible. This is visible all throughout the game now.
+I have also worked our some temporary values for the policies and decisions.
+They will all need to be reviewed so that we can have a more interesting game,
+and we will have to work out if we want to make minimum values for each policy and decision in the game.
+
+This next week, I will be reviewing everything that I have done and looking to implement these min values.
