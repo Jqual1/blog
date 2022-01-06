@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Astro Bodies Update __"
-date:   2021-10-11 6:00:00 -0500
-categories: jekyll update
----
-
-This week has been a lot busier than I expected. I tried to put aside time to work on Astronomical bodies, but I simply didn't have much to give. This week I fixed the trashcan button to make it to where it deletes the planet you want it to, I set a default resolution and adjusted our UI to fit to it, and I made it to where the game can now differentiate between a click and a drag. These are all quality of life changes that should make the experience of the game a lot more enjoyable. Ian has been working on a new highlight shader that he wanted to implement, and I am hoping to help him polish that up later this week. Hopefully, I won't have to do much this week 
