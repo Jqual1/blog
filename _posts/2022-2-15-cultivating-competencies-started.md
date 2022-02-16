@@ -16,7 +16,7 @@ Hopefully I will be able to relieve the stress soon so that I can absorb informa
 This past week we worked on getting started with Cultivating Competencies.
 While looking at ways to visualize our story-telling in I found [Obsidian](https://obsidian.md/).
 Obsidian is a great file organization tool where you can organize your thoughts in the form of markdown files.
-![Obsidian](/blog/assets/img/dts/obsidian_CultivatingCompitencies_1.png)
+![Obsidian](/blog/assets/img/dts/gamedev/obsidian_CultivatingCompitencies_1.png)
 As we can see, you can link files together and color code then depending on the tags that you add to the end.
 This can make it easier to group things together and allow you to visualize the trees or webs of choices.
 In this example, I show a lot of things being referenced by outline and an example choice tree.
