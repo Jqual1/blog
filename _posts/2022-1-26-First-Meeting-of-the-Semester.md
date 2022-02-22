@@ -3,7 +3,6 @@ title:  "First Week Back at Hendrix"
 categories:
   DiscoTrayStudios
 tags:
-  DiscoTrayStudios
   GameDev
   @itsmaya
   ClimateGoesPolitical
@@ -19,4 +18,4 @@ On top of that, I am having trouble trying to get my schedule at Walmart back to
 Everything is stressful, but that should change a little bit once I get back into the groove of things.
 
 This month has taught me that things can go wrong, but, as long as you have the right people in your life to support you,
-things will get better and you will get through it. 
+things will get better and you will get through it.

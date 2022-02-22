@@ -1,9 +1,11 @@
 ---
 title:  "End of Year Update"
+toc: true
+toc_label: ""
+toc_icon: "cog"
 categories:
   DiscoTrayStudios
 tags:
-  DiscoTrayStudios
   GameDev
   @itsmaya
   ClimateGoesPolitical
@@ -55,8 +57,10 @@ Changes have already begun being made this week, and hopefully more will be made
 Since I won't be making another post soon, Happy New Year!
 May 2022 be a great year for everyone.
 
-## -={Comprehensive Lists}=- ##
-#### List of Updates on <b> @itsmaya: </b> ####
+## -={Comprehensive Lists}=-
+
+### List of Updates on **@itsmaya:**
+
 - Added Ian and Jonathon to the Credits
 - Added Character Animations
 - Updated the Character Animations
@@ -84,7 +88,8 @@ May 2022 be a great year for everyone.
 - Dialogue Box now hides when the Policy Screen shows
 - Timer Pauses when the Game is Paused
 
-#### Bug Fixes on <b> @itsmaya: </b> ####
+### Bug Fixes on **@itsmaya:**
+
 - Background Scaling Bug
 - Credit Background not showing Bug
 - Characters not showing up Bug
@@ -93,7 +98,8 @@ May 2022 be a great year for everyone.
 - Capital Panel showing on Credits Screen Bug
 - Dialogue Box being clickable while animating away Bug
 
-#### List of Updates on <b> Climate Goes Political </b> ####
+### List of Updates on **Climate Goes Political**
+
 - Separated Sound into 3 Options (Master, Music, Other)
 - Added A Settings Button to Main Menu
 - Added a Settings Screen

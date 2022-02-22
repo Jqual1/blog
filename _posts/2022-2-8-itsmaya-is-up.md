@@ -3,7 +3,6 @@ title:  "@itsmaya is now up!"
 categories:
   DiscoTrayStudios
 tags:
-  DiscoTrayStudios
   GameDev
   @itsmaya
 ---

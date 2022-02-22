@@ -3,7 +3,6 @@ title:  "Starting on Cultivating Competencies"
 categories:
   DiscoTrayStudios
 tags:
-  DiscoTrayStudios
   GameDev
   CultivatingCompetencies
 ---

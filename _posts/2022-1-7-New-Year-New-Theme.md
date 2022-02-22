@@ -3,7 +3,7 @@ title:  "New Year New Theme"
 categories:
   DiscoTrayStudios
 tags:
-  DiscoTrayStudios
+  WebDev
   Blog
 ---
 

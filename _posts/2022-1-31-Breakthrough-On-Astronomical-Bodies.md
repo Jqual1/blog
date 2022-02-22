@@ -3,7 +3,6 @@ title:  "Breakthrough on Astronomical Bodies"
 categories:
   DiscoTrayStudios
 tags:
-  DiscoTrayStudios
   GameDev
   @itsmaya
   ClimateGoesPolitical

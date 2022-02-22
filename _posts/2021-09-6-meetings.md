@@ -4,7 +4,6 @@ description: "Meetings Galore"
 categories:
   DiscoTrayStudios
 tags:
-  DiscoTrayStudios
   GameDev
   WebDev
 ---
@@ -16,6 +15,7 @@ cleaned up the new itch.io profile, and spent time helping Ian figure
 out a schedule to meet with the Game Dev partners.
 
 This week I will be participating in the following meetings:
+
 * Dr. Scott - Wednesday 9:00 - Everyone
 * Tricia Burris and Leigh Lassiter-Counts - Thursday 12:00 - Everyone
 * Dr. Chomphosy - Thursday 2:00 - Jonathon

@@ -9,6 +9,7 @@ ways as possible. I have worked on many things so far and more info on that can 
 [Projects](/blog/projects/) page.
 
 The courses I have taken in the order I have taken them:
+
 - Intro to Computer Science (Clarksville HS 2018-2019)
 - AP Computer Science (Clarksville HS 2019-2020)
 - [CSCI151 Data Structures](https://hendrix-cs.github.io/csci151/) (Hendrix Fall 2020)

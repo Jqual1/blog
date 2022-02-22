@@ -3,9 +3,8 @@ title:  "CSCI340 SW Reflection"
 categories:
   CSCI340
 tags:
-  SolarEclipseProject
-  FinalProject
-  Reflection
+  WebDev
+  SolarEclipse
 ---
 
 When working on this project with the rest of the Solar Eclipse team, we ended up doing many important things, learning a lot of skills, and making a ton of progress.
