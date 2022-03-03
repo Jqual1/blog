@@ -60,7 +60,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true # true, false (default)
 search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -108,11 +108,14 @@ author:
   avatar           : "/assets/img/Jonathon.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm a CompSci major, HDX'24! I work at Disco Tray Studios and Walmart Neighborhood Market."
   location         : "Conway, Arkansas"
-  email            : "QuallsJA@hendrix.edu"
+  email            : "Jonathonq02@gmail.com"
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Jqual1"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url:  "QuallsJA@hendrix.edu"
+      # url:  "Jonathonq02@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -122,9 +125,6 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Jqual1"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/jqual1/"
@@ -132,21 +132,18 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jquaqual1"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Jqual1"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+      url: "https://github.com/Jqual1/"
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://discordapp.com/users/171224005938774016/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jquaqual1/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/jonathon.qualls.5/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/jqual1/"
@@ -297,7 +294,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true
