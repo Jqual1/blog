@@ -4,7 +4,7 @@
 /* Colors */
 $background-color: #141010 !default;
 $text-color: #fff6fb !default;
-$primary-color: #f21368 !default;
+$primary-color: #239fff !default;
 $border-color: mix(#fff, $background-color, 20%) !default;
 $code-background-color: mix(#000, $background-color, 15%) !default;
 $code-background-color-dark: mix(#000, $background-color, 20%) !default;
@@ -65,3 +65,7 @@ $base0f: #cc6633 !default;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.page__footer-follow ul {
+  font-size: 50px;
+}

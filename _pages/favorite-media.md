@@ -2,7 +2,7 @@
 title: Jonathon Qualls
 layout: splash
 classes: landing
-permalink: /_pages/home/
+permalink: /_pages/media/
 read_time: false
 header:
   overlay_color: "#000"
@@ -36,6 +36,8 @@ feature_row:
     # url: "/_pages/appdev"
     # btn_label: "Read More"
     # btn_class: "btn--primary"
+    
+  
 feature_row2:
   - image_path: assets/img/splash1.jpg
     alt: "placeholder image 2"
