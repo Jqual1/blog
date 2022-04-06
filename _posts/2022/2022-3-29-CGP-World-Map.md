@@ -36,13 +36,16 @@ Making this more cohesive and making each city more distinct from a far away vie
 but I am enjoying the challenge.
 Here are some screenshots of my progress.
 
-### Previous:
+### Previous
+
 ![Old Climate Goes Political Map](/blog/assets/img/dts/gamedev/cgp_world1.png)
 
-### Currently:
+### Current
+
 ![New Climate Goes Political Map](/blog/assets/img/dts/gamedev/cgp_world2.1.png)
 
 ### W/Different City & Pollution Levels
+
 ![New CGP Map w/Dif Levels](/blog/assets/img/dts/gamedev/cgp_world2.png)
 
 The different polution levels still need to be altered to look better in this view.
@@ -55,7 +58,7 @@ and if it gets too high this civiliztion is harmed by ocean levels rising.
 Then, of course, I will need to alter the UI for this new map view.
 I am planning to have a way to focus on each city.
 
-## Cultivating Compitencies
+## Cultivating Competencies
 
 I spent a good amount of time looking at both Cultivating Competencies and the Arboretum website,
 but I didn't make much progress on either.
