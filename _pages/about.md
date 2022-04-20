@@ -56,6 +56,7 @@ Deconstructor | June 2017
 
 ## Honors & Awards
 
+McGill Choir Scholarship | April 2022 - Present
 Hendrix College Distinguished Scholarship | August 2020 - Present
 KFC Scholarship | August 2020
 Computer Business Applications Academic Excellence | May 2017
@@ -64,6 +65,9 @@ Choir Camp Honor Camper | July 2016
 
 ## Leadership
 
+D&D Club President  April 2022
+Internet Culture Club Organizer | August 2019 - May 2020
+Choir Host | December 2019
 Vacation Bible School Counselor | June 2017
 
 ## Projects
@@ -84,6 +88,7 @@ Vacation Bible School Counselor | June 2017
 - HTML5
 - Markdown
 - Razor Pages
+- SQL
 - Unity
 - Ren’Py
 - Blender
