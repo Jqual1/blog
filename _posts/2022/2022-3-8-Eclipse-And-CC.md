@@ -22,7 +22,7 @@ There has been some struggle as far as time management goes, but I have been wor
 In Cultivating Compitencies, I have focused on trying to make the background less pixilated and more game-like.
 After a few different tries, I finally found a way to make backgrounds that fit the game well while still being Hendrix.
 I tried tracing the background myself and then, after that was taking too much time, I tried finding filters online.
-The website that I ended up using to transform the pictures is [Lunapic]("https://www4.lunapic.com/editor/").
+The website that I ended up using to transform the pictures is [Lunapic](https://www4.lunapic.com/editor/).
 This turned the backgrounds from pixelated and realistic to more smoothed out and geometric patterns as shown below.
 
 ![Cultivating Compitencies Library Background](/blog/assets/img/dts/gamedev/cc_library.jpg)
