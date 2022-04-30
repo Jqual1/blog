@@ -8,8 +8,8 @@ categories:
 tags:
   GameDev
   CultivatingCompetencies
-  AppDev
-  GoodVibes
+  WebDev
+  Eclipse
 ---
 
 The last two weeks were rough as the semester is coming to an end
