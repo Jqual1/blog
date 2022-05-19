@@ -14,6 +14,8 @@ tags:
   Internship
 ---
 
+This is a long post, but keep in mind that you can use the Table of Contents on the right!
+
 ## General Life Updates
 
 This month has been pretty good overall!
