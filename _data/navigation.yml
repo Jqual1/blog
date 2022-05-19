@@ -2,11 +2,11 @@
 main:
   # - title: "Home Test"
   #   url: /_pages/home/
-  - title: "Blog"
+  - title: "Posts"
     url: /_pages/posts/
   - title: "About Me"
     url: /_pages/about/
-  - title: "Projects"
-    url: /_pages/projects/
+  - title: "Portfolio"
+    url: /_pages/portfolio/
   - title: "Disco Tray Studios"
     url: https://discotraystudios.github.io/

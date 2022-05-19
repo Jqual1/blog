@@ -91,7 +91,7 @@ This has included making new assets for the landing page
 (I don't think this iteration of them will stay though),
 and changing the text of them.
 Some assets I added for the home page are rough drafts of what I want.
-To see a preview of the page click [here](/blog/_pages/home/).
+To see a preview of the page click [here](/blog/_pages/portfolio/). [Edit: This will be the Portfolio Page]
 
 ## What's Coming Up?
 

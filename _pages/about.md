@@ -7,8 +7,8 @@ permalink: /_pages/about/
 
 This is the blog of a sophomore Computer Science major at Hendrix in *Disco Tray Studios*. **HDX '24**!!!
 My goal is to become the best programmer that I can. I want to be able to apply my experience in as many
-ways as possible. I have worked on many things so far and more info on that can be seen on the
-[Projects](/blog/_pages/projects/) page.
+ways as possible. I have worked on many things so far and more info on that can be seen on my
+[Portfolio](/blog/_pages/portfolio/) page. This includes things in and outside of Hendrix through many mediums.
 
 My Computer Science Advisor is [Dr. Mark Goadrich](http://mark.goadrich.com/).
 
@@ -65,20 +65,20 @@ Choir Camp Honor Camper | July 2016
 
 ## Leadership
 
-D&D Club President  April 2022
+D&D Club President | April 2022
 Internet Culture Club Organizer | August 2019 - May 2020
 Choir Host | December 2019
 Vacation Bible School Counselor | June 2017
 
 ## Projects
 
-- HDX Solar Eclipse ‘24 Event Website
-- Career Competencies
-- @itsmaya
-- Climate Goes Political
-- ChemSim
-- Astronomical Bodies
-- Ono
+- HDX Solar Eclipse ‘24 Event Website \[[GitHub](https://github.com/DiscoTrayStudios/Solar)]
+- Career Competencies \[[GitHub](https://github.com/DiscoTrayStudios/CareerCompetencies)]
+- @itsmaya \[[GitHub](https://github.com/DiscoTrayStudios/Sociology), [itch.io](https://discotraystudios.itch.io/itsmaya)]
+- Climate Goes Political \[[GitHub](https://github.com/DiscoTrayStudios/economicsgame), [itch.io](https://discotraystudios.itch.io/climate-goes-political)]
+- ChemSim \[[GitHub](https://github.com/DiscoTrayStudios/ChemSim), [itch.io](https://discotraystudios.itch.io/chemsim)]
+- Astronomical Bodies \[[GitHub](https://github.com/DiscoTrayStudios/PhysicsSimulation), [itch.io](https://discotraystudios.itch.io/astronomical-bodies)]
+- Ono \[[GitHub](https://github.com/Jqual1/Ono)]
 
 ## Programming Languages / Skills
 
