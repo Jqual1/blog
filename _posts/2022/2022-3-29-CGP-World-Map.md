@@ -20,7 +20,7 @@ I have been dealing with some mental issues
 but this week I started attending counseling to hopefully improve.
 Inspiration was hard to find when working this week,
 but recently I went back to looking at Climate Goes Political to make the World Map cohesive.
-This week I also got an email from Acxiom asking for my availabity to schedule an interview for an internship.
+This week I also got an email from Acxiom asking for my availability to schedule an interview for an internship.
 I honestly didn't expect this email, so it was a pleasant surprise.
 We shall see if anything is to come from this!
 
@@ -48,13 +48,13 @@ Here are some screenshots of my progress.
 
 ![New CGP Map w/Dif Levels](/blog/assets/img/dts/gamedev/cgp_world2.png)
 
-The different polution levels still need to be altered to look better in this view.
+The different pollution levels still need to be altered to look better in this view.
 I also still need to make the cities look more different in each city level
 because currently I only have the roofs different colors on some stages.
 As you can see, I added a little civilization on the middle island;
 the plan is to make different variations of the whole world as well.
-These should change depending on the world's polution,
-and if it gets too high this civiliztion is harmed by ocean levels rising.
+These should change depending on the world's pollution,
+and if it gets too high this civilization is harmed by ocean levels rising.
 Then, of course, I will need to alter the UI for this new map view.
 I am planning to have a way to focus on each city.
 
@@ -97,7 +97,7 @@ To see a preview of the page click [here](/blog/_pages/portfolio/). [Edit: This 
 
 - Finish making the Climate Goes Political map cohesive.
   - Make the whole world change depending on different pollution levels.
-  - Have the npc be able to be destroyed by business as usual.
+  - Have the NPC be able to be destroyed by business as usual.
   - Make the cities look even more different on every city level.
 - Help Ian with Cultivating Competencies as needed.
 - Help with the Arboretum website.

@@ -39,7 +39,7 @@ this project is out of our hands unless she asks for further assistance.
 
 - Finish making the Climate Goes Political map cohesive.
   - Make the whole world change depending on different pollution levels.
-  - Have the npc be able to be destroyed by business as usual.
+  - Have the NPC be able to be destroyed by business as usual.
   - Make the cities look even more different on every city level.
 - Help Ian with Cultivating Competencies as needed.
 - Continue working on a better landing page for this blog.

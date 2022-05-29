@@ -48,12 +48,6 @@ Team member/Cook | July 17, 2018 – August 2021
 
 - Communicate with other employees well; a necessity to keep things running smoothly
 
-**Deconstruction (Private)** | Clarksville, AR
-Deconstructor | June 2017
-
-- Establishing a clear workspace.
-- Ensuring Safety. Make sure nothing’s on the road for cars to run over.
-
 ## Honors & Awards
 
 McGill Choir Scholarship | April 2022 - Present

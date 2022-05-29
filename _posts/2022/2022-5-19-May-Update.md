@@ -39,14 +39,14 @@ and so far everything has been going good. It has been a lot of fun!
 
 On May 5th, Ian and I had a meeting with Lindsey Knight, the Education Curator at the Windgate Museum.
 In this meeting we talked a lot about the game that she would like to be made.
-This will be a bigger project since we will have to start over, but we bounced a lot of ideas off of eachother and hope to be able to start in September.
+This will be a bigger project since we will have to start over, but we bounced a lot of ideas off of each other and hope to be able to start in September.
 She is very lenient on how the game is shown to the user, but she definitely wants a more fleshed out story, even if it isn't a story game.
 Make things intentional and give the player a reason to be there.
-She wants a 3D game with a birdseye view with inspiration being drawn from Mario 64 and Mario's time machine for how the game can play out.
-Another thing Lindsey mentioned was her love of lore and creepyness, so if there is a way to include that, she would love it.
+She wants a 3D game with a Birdseye view with inspiration being drawn from Mario 64 and Mario's time machine for how the game can play out.
+Another thing Lindsey mentioned was her love of lore and creepiness, so if there is a way to include that, she would love it.
 
 How might this be included? The lore of the art itself.
-The different pieces of art may have a dark backstory that we don't know about, so it would be highly reccomended to speak with any living artists of these pieces.
+The different pieces of art may have a dark backstory that we don't know about, so it would be highly recommended to speak with any living artists of these pieces.
 Pieces that will be included in the game are going to be the permanent ones. These can be found all around campus as lobby pieces, room decoration, or something else.
 Overall, there are many different ways that this project will go and I think that it will be fun to work on it.
 
@@ -67,23 +67,23 @@ I think discussion about this will really kick off in July as the date nears for
 ### Cultivating Competencies
 
 This month we got feedback from Career Services about the newest version of Cultivating Competencies that we sent to them.
-They shared this with two of their student workers to recieve feedback.
-The feedback that we recieved from them was extremely useful!
+They shared this with two of their student workers to receive feedback.
+The feedback that we received from them was extremely useful!
 It included:
 
-- Grammer Corrections
+- Grammar Corrections
 - Likes/Dislikes
 - Missing Avatars
 - Wording
 - Other General Feedback
 
 After getting this feedback I was able to make quick changes to the game.
-All the feedback was detailed enough to allow me to find grammer corrections and such easily.
+All the feedback was detailed enough to allow me to find grammar corrections and such easily.
 I put all of the feedback into an obsidian file to be able to read it all easier and then started crossing things off as I did them.
 I was also sure to start putting these in as GitHub Issues since we are transferring from Trello to that.
 GitHub Issues definitely feels a lot more convenient to use once it is all set up.
 
-One of the feedback we recieved was that we should find another way to display the Career Competencies.
+One of the feedback we received was that we should find another way to display the Career Competencies.
 The solution I came up with is to show a list of options to choose from to learn about.
 This way the player has a choice of if they with to learn about them all or just a couple of them that they aren't sure about.
 It also makes sure that there is never a huge block of text.
@@ -94,14 +94,14 @@ After using LunaPic to add the filter to the picture, I used Canva to arrange th
 Currently, the working name for the game is Cultivating Competencies, so I was sure that that was on the title screen.
 
 Additionally, now that there are fewer people on campus, I was able to go around and take some pictures of places we needed in the game.
-We now have an empty Couch Hall room, the snoddy center, a study corral, and mills. The current version of the game has been sent off for review by Career Services once more.
+We now have an empty Couch Hall room, the Snoddy Center, a study corral, and mills. The current version of the game has been sent off for review by Career Services once more.
 
 ### Climate Goes Political
 
 I've been working on the world of Climate Goes Political for a while now.
 It has been a lot of effort to go through and change each version of the cities and land around them to fit the new design plans and make them look different enough.
 However, this has been very rewarding.
-Now, when one looks at the cities from afar, it is much easier to differentiate them from eachother.
+Now, when one looks at the cities from afar, it is much easier to differentiate them from each other.
 I ended up zooming the camera back in for the time being, but it is in the plans for the future to enable some kind of zoomed-out camera.
 Simply put, my energy is better spent on making sure the other games are ready for submission seeing that this game is already in a good place.
 This new version that I have been working on throughout the semester is now on [itch.io](https://discotraystudios.itch.io/climate-goes-political).
@@ -109,7 +109,7 @@ Version 2.1 includes many new features:
 
 - New Settings Menu
   - New Timer Feature
-  - Seperate Master, Music, and Other sound controls
+  - Separate Master, Music, and Other sound controls
 - Differentiation in cities
 - Probably Brand New Bugs Somewhere!
 - Much more detailed land in-between cities with hills and rivers.
@@ -119,14 +119,14 @@ Version 2.1 includes many new features:
 When looking through Astronomical Bodies to make sure everything was credited, I noticed that there where a few issues present:
 
 - Objects were being culled when they got a certain distance away from the original center.
-  - This happened even if no other objes were present
+  - This happened even if no other objects were present
 - No Center of Gravity Marker
 - Automatic Camera Zoom was slow
 - Manual Scrolling Zoom was slow
 
 Once I saw these issues I began looking at the code once more.
 It turns out that somewhere along the way we changed the code in such a way that the center of gravity was no longer updated!
-After fixed this issue in the code, the object culling improved, however, I wanted to allow objects to be further away from eachother.
+After fixed this issue in the code, the object culling improved, however, I wanted to allow objects to be further away from each other.
 So, I increased the range from the center before culling happens.
 Next was camera zooming issues, these were easy to fix. All I needed to do was change the numbers that each thing was being multiplied by.
 One thing I wanted to do though was make it to where even if you were zoomed out a lot you could zoom back in really quick.
@@ -140,7 +140,7 @@ For the first time ever, I had to go through a background check and a drug test.
 Both were pretty simple processes, but I did hit a few snags when going through the background check.
 In the background check, I forgot to take out my first ever "experience" on my resume.
 This was something that I did when I was just under 14 with my uncle and, therefore, didn't have any tax paperwork to prove I was employed.
-It was just something that my uncled payed me for doing that I put on my resume to show that I could handle labor when I started applying to jobs.
+It was just something that my uncle payed me for doing that I put on my resume to show that I could handle labor when I started applying to jobs.
 Now, however, I have that removed from my resume. It is no longer necessary to have on there and will make for less of a headache in the future.
 Besides that snag, the background check went and drug test went well!
 
@@ -190,7 +190,7 @@ One may notice that these changes are in affect on the nav-bar already.
     - Added new backgrounds and avatars
     - Uploaded to itch
   - Climate Goes Political
-    - Finshed making the cities more varied
+    - Finished making the cities more varied
     - Uploaded to itch
   - Astronomical Bodies
     - Fixed Center of Gravity

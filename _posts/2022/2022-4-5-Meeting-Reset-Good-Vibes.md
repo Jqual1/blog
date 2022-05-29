@@ -52,7 +52,7 @@ I have been pitching it to my friends as well, and they think it's cool.
 
 - Finish making the Climate Goes Political map cohesive.
   - Make the whole world change depending on different pollution levels.
-  - Have the npc be able to be destroyed by business as usual.
+  - Have the NPC be able to be destroyed by business as usual.
   - Make the cities look even more different on every city level.
 - Help Ian with Cultivating Competencies as needed.
 - Help with the Arboretum website.

@@ -69,7 +69,7 @@ I have worked on many games and projects in my classes so far, and a good chunk 
 Then there is also a fun game that I made in Java called Ono.
 It is very similar to Uno, but bugs are features and you don't choose the color that it changes to.
 [Here](https://github.com/Jqual1/Ono) is the code for that.
-The code for many of the other projects I have worked on can be found on [my github](https://github.com/Jqual1/) as well.
+The code for many of the other projects I have worked on can be found on [my GitHub](https://github.com/Jqual1/) as well.
 
 {% include feature_row %}
 
