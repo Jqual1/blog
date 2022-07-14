@@ -9,7 +9,7 @@ tags:
   Internship
 ---
 
-Happy Fourth!
+Happy Fourth! Tomorrow is my birthday!
 These last few weeks have been very busy as I have been traveling between Clarksville and Conway a lot and then also I have started my first projects, so I haven't had time to post.
 One of the reasons I traveled back and forth between Clarksville and Conway was to celebrate Father's Day and the other was to move a bed and a couch up here!
 It is very nice to have something besides a futon to sleep on, and my living room looks much more homey now.
@@ -35,7 +35,7 @@ When that was all said and done, we had it automated and it was left to me to tr
 
 On the week of the 27th I worked hard to automate step two of this process, but I ended up running into a bug that I never figured out the solution to.
 I asked my coworkers to help, but they also had trouble. However, I did get most of step two done and just have to run this section of it manually until this bug is fixed.
-Besides that, the interns had a movie night and it was a lot of fun! 
+Besides that, the interns had a movie night and it was a lot of fun!
 
 So overall, I have been working on a few projects, planning on how to tackle some and successfully tackling others.
 My supervisor is impressed by what all I've done and how quickly I learn, and I enjoy working here.
