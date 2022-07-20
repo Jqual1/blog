@@ -23,7 +23,7 @@ This past week at Acxiom work was pretty busy.
 To start off the week, I approached one of my coworkers to shadow him doing his job for a little bit.
 This allowed me to see what he was working on and see how he approached different problems that he came into.
 He also said that it was helpful for him because he had to explain everything he was doing and fully understand it himself.
-However, the next day I saw my supervisor was in the office so I asked if she needed help with her increased workload. 
+However, the next day I saw my supervisor was in the office so I asked if she needed help with her increased workload.
 One of my coworkers was gone, and it was the beginning of the month, so my supervisor and I worked on some of the monthly files together.
 Just doing a few of these files took all of Wednesday and some of Thursday to process, but gave me insight on how we may be able to automate the processes.
 These intense days, however, caused me to burn out.
@@ -52,7 +52,6 @@ Last week and so far this week I have been sure to take initiative of my interns
     - Crafting Design Documents
     - Emailing/Slacking Coworkers
     - Testing in Software Sandboxes
-
 
 ### This Week
 
