@@ -47,8 +47,8 @@ feature_row2:
 feature_row3:
   - image_path: assets/img/personal/art/kevandist.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+    title: "Drunkards & Dimwits"
+    excerpt: 'This is a website for my D&D campaign Drunkards & Dimwits. Join us in the world of Ghaaliya.'
     url: "https://jqual1.github.io/DrunkardsNDimwits"
     btn_label: "Read More"
     btn_class: "btn--primary"
