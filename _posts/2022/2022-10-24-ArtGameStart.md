@@ -1,5 +1,5 @@
 ---
-title:  "Let's Finish This!"
+title:  "The New Game Begins!"
 toc: false
 categories:
   DiscoTrayStudios
@@ -40,7 +40,7 @@ Apparently, they are thinking of moving to GitHub soon, and I had to clear the h
 - Change "Projects" page to be a portfolio.
 - Edit all the pages connected to the WIP landing page.
 
-## T;DR
+## TL;DR
 
 - I published the first couple episodes of my podcast
 - New grow lights for my plants
