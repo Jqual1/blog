@@ -45,7 +45,7 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: assets/img/personal/art/kevandist.jpg
+  - image_path: assets/img/personal/art/drunkndim.jpg
     alt: "placeholder image 2"
     title: "Drunkards & Dimwits"
     excerpt: 'This is a website for my D&D campaign Drunkards & Dimwits. Join us in the world of Ghaaliya.'
