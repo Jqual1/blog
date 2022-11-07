@@ -1,6 +1,6 @@
 ---
 title:  "The New Game Begins!"
-toc: false
+toc: true
 categories:
   DiscoTrayStudios
   Acxiom

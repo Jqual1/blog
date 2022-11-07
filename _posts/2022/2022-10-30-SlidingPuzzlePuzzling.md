@@ -1,6 +1,6 @@
 ---
 title:  "The Sliding Puzzle is Puzzling, Happy Halloween!"
-toc: false
+toc: true
 categories:
   DiscoTrayStudios
   Acxiom
