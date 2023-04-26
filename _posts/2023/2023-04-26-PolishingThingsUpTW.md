@@ -1,5 +1,5 @@
 ---
-title:  "A Working Game!"
+title:  "Tempest Winds: Polishing Things Up"
 toc: true
 categories:
   DiscoTrayStudios
