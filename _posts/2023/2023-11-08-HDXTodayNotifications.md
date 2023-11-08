@@ -101,7 +101,7 @@ Upon switching this and a plethora of testing, I found that the notifications wh
 
 After pushing this, I ran into a weird issue where I couldn't get the app to run anymore.
 
-<img align="right" width="100" height="100" src="/blog/assets/img/blog/HDX_Install_Error.png">
+<img align="right" width="500" height="500" src="/blog/assets/img/blog/HDX_Install_Error.png">
 
 It was constantly showing up this message no matter how much I updated my software, my operating systems, or anything.
 So, I was at this for a few hours trying to figure out what could have caused this issue.
