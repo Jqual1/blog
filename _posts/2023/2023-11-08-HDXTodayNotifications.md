@@ -2,7 +2,7 @@
 title:  "HDX Today - The Notifications Issue (+Theme Persistence!)"
 toc: true
 categories:
-  Acxiom
+  DiscoTrayStudios
 tags:
   GameDev
   CultivatingCompetencies

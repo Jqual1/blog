@@ -2,6 +2,7 @@
 title:  "Wrapping up Cultivating Competencies!"
 toc: true
 categories:
+  DiscoTrayStudios
   Acxiom
 tags:
   GameDev

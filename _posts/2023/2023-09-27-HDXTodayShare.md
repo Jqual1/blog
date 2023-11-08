@@ -2,6 +2,7 @@
 title:  "HDX Today Share Link Fixed!"
 toc: true
 categories:
+  DiscoTrayStudios
   Acxiom
 tags:
   GameDev
